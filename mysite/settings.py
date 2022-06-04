@@ -28,7 +28,7 @@ SECRET_KEY = 'jfeivr6wgxuw__9bxx^jxsv@u&mxdss+j$y-9ityd8&a#q6hrx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sentiment-analysis-logistic.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['sentiment-analysis-logistic.herokuapp.com/polls', '127.0.0.1']
 
 
 # Application definition
